@@ -1,5 +1,4 @@
-package ru.mirea.trpp_second_10;
-
+package ru.mirea.trpp_second_10.entity;
 import io.micronaut.runtime.Micronaut;
 
 /** Класс - точка входа в приложение. */
